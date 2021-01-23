@@ -1,1 +1,1 @@
-# squares2
+# Box Class
